@@ -1,5 +1,3 @@
-Gerekli dosyaları bu linkten indirebilrsiniz.
-Bu dosya va klasörler GitHub'a yüklenirken bir sorun oluştu. O yüzden drive'a yükledim.
-Bu dosya ve klasörler kod ile aynı dizinde olmalı.
+Kullandığım vidonun linki:
 
-https://drive.google.com/drive/folders/1fdQHnC07fpitJk5oIQeEHEKhfCGtQVRe?usp=sharing
+https://www.youtube.com/watch?v=nt3D26lrkho
